@@ -1,5 +1,7 @@
-fortnitepy==2.3.1
+fortnitepy==3.8.3
 aiohttp
-colorama
-BenBotAsync
+crayons
+jaconv
+jinja2
 requests
+sanic
